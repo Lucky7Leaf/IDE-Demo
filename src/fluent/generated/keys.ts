@@ -9,10 +9,794 @@ declare global {
                         table: 'sys_script'
                         id: 'a6c9f040be78428db1165361d403a513'
                     }
+                    '03a19918c333fa10458c153ed4013132': {
+                        table: 'sys_ui_element'
+                        id: '03a19918c333fa10458c153ed4013132'
+                    }
+                    '03a19918c333fa10458c153ed401313e': {
+                        table: 'sys_ui_element'
+                        id: '03a19918c333fa10458c153ed401313e'
+                    }
+                    '03a19918c333fa10458c153ed4013164': {
+                        table: 'sys_ui_element'
+                        id: '03a19918c333fa10458c153ed4013164'
+                    }
+                    '03a19918c333fa10458c153ed4013187': {
+                        table: 'sys_ui_element'
+                        id: '03a19918c333fa10458c153ed4013187'
+                    }
+                    '03a19918c333fa10458c153ed401319f': {
+                        table: 'sys_ui_element'
+                        id: '03a19918c333fa10458c153ed401319f'
+                    }
+                    '07a19918c333fa10458c153ed401313a': {
+                        table: 'sys_ui_form_section'
+                        id: '07a19918c333fa10458c153ed401313a'
+                    }
+                    '07a19918c333fa10458c153ed401318f': {
+                        table: 'sys_ui_element'
+                        id: '07a19918c333fa10458c153ed401318f'
+                    }
+                    '07a19918c333fa10458c153ed4013198': {
+                        table: 'sys_ui_section'
+                        id: '07a19918c333fa10458c153ed4013198'
+                    }
+                    '07a19918c333fa10458c153ed401319c': {
+                        table: 'sys_ui_element'
+                        id: '07a19918c333fa10458c153ed401319c'
+                    }
+                    '0ba19918c333fa10458c153ed401318c': {
+                        table: 'sys_ui_element'
+                        id: '0ba19918c333fa10458c153ed401318c'
+                    }
+                    '0fa19918c333fa10458c153ed4013134': {
+                        table: 'sys_ui_element'
+                        id: '0fa19918c333fa10458c153ed4013134'
+                    }
+                    '0fa19918c333fa10458c153ed4013140': {
+                        table: 'sys_ui_element'
+                        id: '0fa19918c333fa10458c153ed4013140'
+                    }
+                    '0fa19918c333fa10458c153ed401316c': {
+                        table: 'sys_ui_element'
+                        id: '0fa19918c333fa10458c153ed401316c'
+                    }
+                    '0fa19918c333fa10458c153ed4013189': {
+                        table: 'sys_ui_element'
+                        id: '0fa19918c333fa10458c153ed4013189'
+                    }
+                    '22a11918c333fa10458c153ed40131b0': {
+                        table: 'sys_ui_element'
+                        id: '22a11918c333fa10458c153ed40131b0'
+                    }
+                    '22a11918c333fa10458c153ed40131e1': {
+                        table: 'sys_ui_element'
+                        id: '22a11918c333fa10458c153ed40131e1'
+                    }
+                    '22a11918c333fa10458c153ed40131ec': {
+                        table: 'sys_ui_section'
+                        id: '22a11918c333fa10458c153ed40131ec'
+                    }
+                    '22a15918c333fa10458c153ed401310c': {
+                        table: 'sys_ui_element'
+                        id: '22a15918c333fa10458c153ed401310c'
+                    }
+                    '22a15918c333fa10458c153ed4013118': {
+                        table: 'sys_ui_element'
+                        id: '22a15918c333fa10458c153ed4013118'
+                    }
+                    '22a15918c333fa10458c153ed4013139': {
+                        table: 'sys_ui_element'
+                        id: '22a15918c333fa10458c153ed4013139'
+                    }
+                    '26a11918c333fa10458c153ed4013198': {
+                        table: 'sys_ui_element'
+                        id: '26a11918c333fa10458c153ed4013198'
+                    }
+                    '26a11918c333fa10458c153ed40131ad': {
+                        table: 'sys_ui_element'
+                        id: '26a11918c333fa10458c153ed40131ad'
+                    }
+                    '26a11918c333fa10458c153ed40131b8': {
+                        table: 'sys_ui_element'
+                        id: '26a11918c333fa10458c153ed40131b8'
+                    }
+                    '26a15918c333fa10458c153ed4013109': {
+                        table: 'sys_ui_element'
+                        id: '26a15918c333fa10458c153ed4013109'
+                    }
+                    '26a15918c333fa10458c153ed4013115': {
+                        table: 'sys_ui_element'
+                        id: '26a15918c333fa10458c153ed4013115'
+                    }
+                    '26a15918c333fa10458c153ed4013136': {
+                        table: 'sys_ui_section'
+                        id: '26a15918c333fa10458c153ed4013136'
+                    }
+                    '26a15918c333fa10458c153ed4013156': {
+                        table: 'sys_ui_element'
+                        id: '26a15918c333fa10458c153ed4013156'
+                    }
+                    '2aa11918c333fa10458c153ed4013195': {
+                        table: 'sys_ui_element'
+                        id: '2aa11918c333fa10458c153ed4013195'
+                    }
+                    '2aa11918c333fa10458c153ed40131b5': {
+                        table: 'sys_ui_element'
+                        id: '2aa11918c333fa10458c153ed40131b5'
+                    }
+                    '2aa11918c333fa10458c153ed40131f1': {
+                        table: 'sys_ui_element'
+                        id: '2aa11918c333fa10458c153ed40131f1'
+                    }
+                    '2aa15918c333fa10458c153ed401313e': {
+                        table: 'sys_ui_element'
+                        id: '2aa15918c333fa10458c153ed401313e'
+                    }
+                    '2aa15918c333fa10458c153ed4013153': {
+                        table: 'sys_ui_element'
+                        id: '2aa15918c333fa10458c153ed4013153'
+                    }
+                    '2ea11918c333fa10458c153ed40131b2': {
+                        table: 'sys_ui_element'
+                        id: '2ea11918c333fa10458c153ed40131b2'
+                    }
+                    '2ea11918c333fa10458c153ed40131e3': {
+                        table: 'sys_ui_element'
+                        id: '2ea11918c333fa10458c153ed40131e3'
+                    }
+                    '2ea11918c333fa10458c153ed40131ee': {
+                        table: 'sys_ui_element'
+                        id: '2ea11918c333fa10458c153ed40131ee'
+                    }
+                    '2ea15918c333fa10458c153ed4013112': {
+                        table: 'sys_ui_form_section'
+                        id: '2ea15918c333fa10458c153ed4013112'
+                    }
+                    '2ea15918c333fa10458c153ed401313b': {
+                        table: 'sys_ui_element'
+                        id: '2ea15918c333fa10458c153ed401313b'
+                    }
+                    '32a15918c333fa10458c153ed4013162': {
+                        table: 'sys_ui_element'
+                        id: '32a15918c333fa10458c153ed4013162'
+                    }
+                    '32a15918c333fa10458c153ed4013199': {
+                        table: 'sys_ui_element'
+                        id: '32a15918c333fa10458c153ed4013199'
+                    }
+                    '32a15918c333fa10458c153ed40131ad': {
+                        table: 'sys_ui_element'
+                        id: '32a15918c333fa10458c153ed40131ad'
+                    }
+                    '32a15918c333fa10458c153ed40131c1': {
+                        table: 'sys_ui_section'
+                        id: '32a15918c333fa10458c153ed40131c1'
+                    }
+                    '32a15918c333fa10458c153ed40131c3': {
+                        table: 'sys_ui_element'
+                        id: '32a15918c333fa10458c153ed40131c3'
+                    }
+                    '32a15918c333fa10458c153ed40131d1': {
+                        table: 'sys_ui_element'
+                        id: '32a15918c333fa10458c153ed40131d1'
+                    }
+                    '32a15918c333fa10458c153ed40131f4': {
+                        table: 'sys_ui_section'
+                        id: '32a15918c333fa10458c153ed40131f4'
+                    }
+                    '32a15918c333fa10458c153ed40131f6': {
+                        table: 'sys_ui_element'
+                        id: '32a15918c333fa10458c153ed40131f6'
+                    }
+                    '32a19918c333fa10458c153ed401310a': {
+                        table: 'sys_ui_element'
+                        id: '32a19918c333fa10458c153ed401310a'
+                    }
+                    '32a19918c333fa10458c153ed401311d': {
+                        table: 'sys_ui_form'
+                        id: '32a19918c333fa10458c153ed401311d'
+                    }
+                    '36a15918c333fa10458c153ed401315f': {
+                        table: 'sys_ui_element'
+                        id: '36a15918c333fa10458c153ed401315f'
+                    }
+                    '36a15918c333fa10458c153ed4013196': {
+                        table: 'sys_ui_element'
+                        id: '36a15918c333fa10458c153ed4013196'
+                    }
+                    '36a15918c333fa10458c153ed40131aa': {
+                        table: 'sys_ui_element'
+                        id: '36a15918c333fa10458c153ed40131aa'
+                    }
+                    '36a15918c333fa10458c153ed40131ec': {
+                        table: 'sys_ui_element'
+                        id: '36a15918c333fa10458c153ed40131ec'
+                    }
+                    '3aa15918c333fa10458c153ed401316d': {
+                        table: 'sys_ui_element'
+                        id: '3aa15918c333fa10458c153ed401316d'
+                    }
+                    '3aa15918c333fa10458c153ed4013193': {
+                        table: 'sys_ui_element'
+                        id: '3aa15918c333fa10458c153ed4013193'
+                    }
+                    '3aa15918c333fa10458c153ed40131a7': {
+                        table: 'sys_ui_element'
+                        id: '3aa15918c333fa10458c153ed40131a7'
+                    }
+                    '3aa15918c333fa10458c153ed40131e7': {
+                        table: 'sys_ui_section'
+                        id: '3aa15918c333fa10458c153ed40131e7'
+                    }
+                    '3aa15918c333fa10458c153ed40131e9': {
+                        table: 'sys_ui_element'
+                        id: '3aa15918c333fa10458c153ed40131e9'
+                    }
+                    '3aa15918c333fa10458c153ed40131fb': {
+                        table: 'sys_ui_element'
+                        id: '3aa15918c333fa10458c153ed40131fb'
+                    }
+                    '3aa19918c333fa10458c153ed401310f': {
+                        table: 'sys_ui_element'
+                        id: '3aa19918c333fa10458c153ed401310f'
+                    }
+                    '3ea15918c333fa10458c153ed401316a': {
+                        table: 'sys_ui_element'
+                        id: '3ea15918c333fa10458c153ed401316a'
+                    }
+                    '3ea15918c333fa10458c153ed4013190': {
+                        table: 'sys_ui_element'
+                        id: '3ea15918c333fa10458c153ed4013190'
+                    }
+                    '3ea15918c333fa10458c153ed40131c5': {
+                        table: 'sys_ui_element'
+                        id: '3ea15918c333fa10458c153ed40131c5'
+                    }
+                    '3ea15918c333fa10458c153ed40131d3': {
+                        table: 'sys_ui_element'
+                        id: '3ea15918c333fa10458c153ed40131d3'
+                    }
+                    '3ea15918c333fa10458c153ed40131f8': {
+                        table: 'sys_ui_element'
+                        id: '3ea15918c333fa10458c153ed40131f8'
+                    }
+                    '3ea19918c333fa10458c153ed401310c': {
+                        table: 'sys_ui_element'
+                        id: '3ea19918c333fa10458c153ed401310c'
+                    }
+                    '43a19918c333fa10458c153ed4013134': {
+                        table: 'sys_ui_element'
+                        id: '43a19918c333fa10458c153ed4013134'
+                    }
+                    '43a19918c333fa10458c153ed4013140': {
+                        table: 'sys_ui_element'
+                        id: '43a19918c333fa10458c153ed4013140'
+                    }
+                    '43a19918c333fa10458c153ed4013189': {
+                        table: 'sys_ui_element'
+                        id: '43a19918c333fa10458c153ed4013189'
+                    }
+                    '47a19918c333fa10458c153ed4013131': {
+                        table: 'sys_ui_element'
+                        id: '47a19918c333fa10458c153ed4013131'
+                    }
+                    '47a19918c333fa10458c153ed401313d': {
+                        table: 'sys_ui_element'
+                        id: '47a19918c333fa10458c153ed401313d'
+                    }
+                    '47a19918c333fa10458c153ed4013163': {
+                        table: 'sys_ui_element'
+                        id: '47a19918c333fa10458c153ed4013163'
+                    }
+                    '47a19918c333fa10458c153ed4013186': {
+                        table: 'sys_ui_element'
+                        id: '47a19918c333fa10458c153ed4013186'
+                    }
+                    '47a19918c333fa10458c153ed4013191': {
+                        table: 'sys_ui_element'
+                        id: '47a19918c333fa10458c153ed4013191'
+                    }
+                    '47a19918c333fa10458c153ed401319e': {
+                        table: 'sys_ui_element'
+                        id: '47a19918c333fa10458c153ed401319e'
+                    }
+                    '4ba19918c333fa10458c153ed4013121': {
+                        table: 'sys_ui_section'
+                        id: '4ba19918c333fa10458c153ed4013121'
+                    }
+                    '4ba19918c333fa10458c153ed401318e': {
+                        table: 'sys_ui_element'
+                        id: '4ba19918c333fa10458c153ed401318e'
+                    }
+                    '4ba19918c333fa10458c153ed401319b': {
+                        table: 'sys_ui_element'
+                        id: '4ba19918c333fa10458c153ed401319b'
+                    }
+                    '4fa19918c333fa10458c153ed401316a': {
+                        table: 'sys_ui_section'
+                        id: '4fa19918c333fa10458c153ed401316a'
+                    }
+                    '4fa19918c333fa10458c153ed401318b': {
+                        table: 'sys_ui_element'
+                        id: '4fa19918c333fa10458c153ed401318b'
+                    }
+                    '4fa19918c333fa10458c153ed4013197': {
+                        table: 'sys_ui_form_section'
+                        id: '4fa19918c333fa10458c153ed4013197'
+                    }
+                    '5ea11918c333fa10458c153ed4013188': {
+                        table: 'sys_ui_form'
+                        id: '5ea11918c333fa10458c153ed4013188'
+                    }
+                    '62a11918c333fa10458c153ed40131b2': {
+                        table: 'sys_ui_element'
+                        id: '62a11918c333fa10458c153ed40131b2'
+                    }
+                    '62a11918c333fa10458c153ed40131e3': {
+                        table: 'sys_ui_element'
+                        id: '62a11918c333fa10458c153ed40131e3'
+                    }
+                    '62a11918c333fa10458c153ed40131ee': {
+                        table: 'sys_ui_element'
+                        id: '62a11918c333fa10458c153ed40131ee'
+                    }
+                    '62a15918c333fa10458c153ed401311a': {
+                        table: 'sys_ui_element'
+                        id: '62a15918c333fa10458c153ed401311a'
+                    }
+                    '62a15918c333fa10458c153ed401313b': {
+                        table: 'sys_ui_element'
+                        id: '62a15918c333fa10458c153ed401313b'
+                    }
+                    '66a11918c333fa10458c153ed40131af': {
+                        table: 'sys_ui_element'
+                        id: '66a11918c333fa10458c153ed40131af'
+                    }
+                    '66a11918c333fa10458c153ed40131e0': {
+                        table: 'sys_ui_element'
+                        id: '66a11918c333fa10458c153ed40131e0'
+                    }
+                    '66a15918c333fa10458c153ed401310b': {
+                        table: 'sys_ui_element'
+                        id: '66a15918c333fa10458c153ed401310b'
+                    }
+                    '66a15918c333fa10458c153ed4013117': {
+                        table: 'sys_ui_element'
+                        id: '66a15918c333fa10458c153ed4013117'
+                    }
+                    '66a15918c333fa10458c153ed4013138': {
+                        table: 'sys_ui_element'
+                        id: '66a15918c333fa10458c153ed4013138'
+                    }
+                    '6aa11918c333fa10458c153ed4013197': {
+                        table: 'sys_ui_element'
+                        id: '6aa11918c333fa10458c153ed4013197'
+                    }
+                    '6aa11918c333fa10458c153ed40131b7': {
+                        table: 'sys_ui_element'
+                        id: '6aa11918c333fa10458c153ed40131b7'
+                    }
+                    '6aa11918c333fa10458c153ed40131eb': {
+                        table: 'sys_ui_form_section'
+                        id: '6aa11918c333fa10458c153ed40131eb'
+                    }
+                    '6aa11918c333fa10458c153ed40131f3': {
+                        table: 'sys_ui_element'
+                        id: '6aa11918c333fa10458c153ed40131f3'
+                    }
+                    '6aa15918c333fa10458c153ed4013108': {
+                        table: 'sys_ui_element'
+                        id: '6aa15918c333fa10458c153ed4013108'
+                    }
+                    '6aa15918c333fa10458c153ed4013155': {
+                        table: 'sys_ui_element'
+                        id: '6aa15918c333fa10458c153ed4013155'
+                    }
+                    '6ea11918c333fa10458c153ed4013190': {
+                        table: 'sys_ui_section'
+                        id: '6ea11918c333fa10458c153ed4013190'
+                    }
+                    '6ea11918c333fa10458c153ed401319d': {
+                        table: 'sys_ui_form_section'
+                        id: '6ea11918c333fa10458c153ed401319d'
+                    }
+                    '6ea11918c333fa10458c153ed40131b4': {
+                        table: 'sys_ui_element'
+                        id: '6ea11918c333fa10458c153ed40131b4'
+                    }
+                    '6ea11918c333fa10458c153ed40131f0': {
+                        table: 'sys_ui_element'
+                        id: '6ea11918c333fa10458c153ed40131f0'
+                    }
+                    '6ea15918c333fa10458c153ed4013105': {
+                        table: 'sys_ui_section'
+                        id: '6ea15918c333fa10458c153ed4013105'
+                    }
+                    '6ea15918c333fa10458c153ed401313d': {
+                        table: 'sys_ui_element'
+                        id: '6ea15918c333fa10458c153ed401313d'
+                    }
+                    '6ea15918c333fa10458c153ed4013152': {
+                        table: 'sys_ui_element'
+                        id: '6ea15918c333fa10458c153ed4013152'
+                    }
+                    '72a15918c333fa10458c153ed401316a': {
+                        table: 'sys_ui_element'
+                        id: '72a15918c333fa10458c153ed401316a'
+                    }
+                    '72a15918c333fa10458c153ed4013190': {
+                        table: 'sys_ui_element'
+                        id: '72a15918c333fa10458c153ed4013190'
+                    }
+                    '72a15918c333fa10458c153ed40131af': {
+                        table: 'sys_ui_element'
+                        id: '72a15918c333fa10458c153ed40131af'
+                    }
+                    '72a15918c333fa10458c153ed40131c5': {
+                        table: 'sys_ui_element'
+                        id: '72a15918c333fa10458c153ed40131c5'
+                    }
+                    '72a15918c333fa10458c153ed40131d3': {
+                        table: 'sys_ui_element'
+                        id: '72a15918c333fa10458c153ed40131d3'
+                    }
+                    '72a15918c333fa10458c153ed40131e7': {
+                        table: 'sys_ui_form_section'
+                        id: '72a15918c333fa10458c153ed40131e7'
+                    }
+                    '72a15918c333fa10458c153ed40131f8': {
+                        table: 'sys_ui_element'
+                        id: '72a15918c333fa10458c153ed40131f8'
+                    }
+                    '72a19918c333fa10458c153ed401310c': {
+                        table: 'sys_ui_element'
+                        id: '72a19918c333fa10458c153ed401310c'
+                    }
+                    '76a15918c333fa10458c153ed401315d': {
+                        table: 'sys_ui_section'
+                        id: '76a15918c333fa10458c153ed401315d'
+                    }
+                    '76a15918c333fa10458c153ed4013161': {
+                        table: 'sys_ui_element'
+                        id: '76a15918c333fa10458c153ed4013161'
+                    }
+                    '76a15918c333fa10458c153ed4013198': {
+                        table: 'sys_ui_element'
+                        id: '76a15918c333fa10458c153ed4013198'
+                    }
+                    '76a15918c333fa10458c153ed40131ac': {
+                        table: 'sys_ui_element'
+                        id: '76a15918c333fa10458c153ed40131ac'
+                    }
+                    '76a15918c333fa10458c153ed40131d0': {
+                        table: 'sys_ui_element'
+                        id: '76a15918c333fa10458c153ed40131d0'
+                    }
+                    '76a15918c333fa10458c153ed40131ee': {
+                        table: 'sys_ui_element'
+                        id: '76a15918c333fa10458c153ed40131ee'
+                    }
+                    '7aa15918c333fa10458c153ed4013195': {
+                        table: 'sys_ui_element'
+                        id: '7aa15918c333fa10458c153ed4013195'
+                    }
+                    '7aa15918c333fa10458c153ed40131a9': {
+                        table: 'sys_ui_element'
+                        id: '7aa15918c333fa10458c153ed40131a9'
+                    }
+                    '7aa15918c333fa10458c153ed40131bc': {
+                        table: 'sys_ui_form'
+                        id: '7aa15918c333fa10458c153ed40131bc'
+                    }
+                    '7aa15918c333fa10458c153ed40131eb': {
+                        table: 'sys_ui_element'
+                        id: '7aa15918c333fa10458c153ed40131eb'
+                    }
+                    '7aa15918c333fa10458c153ed40131f3': {
+                        table: 'sys_ui_form_section'
+                        id: '7aa15918c333fa10458c153ed40131f3'
+                    }
+                    '7ea15918c333fa10458c153ed401316c': {
+                        table: 'sys_ui_element'
+                        id: '7ea15918c333fa10458c153ed401316c'
+                    }
+                    '7ea15918c333fa10458c153ed4013192': {
+                        table: 'sys_ui_element'
+                        id: '7ea15918c333fa10458c153ed4013192'
+                    }
+                    '7ea15918c333fa10458c153ed40131a6': {
+                        table: 'sys_ui_element'
+                        id: '7ea15918c333fa10458c153ed40131a6'
+                    }
+                    '7ea15918c333fa10458c153ed40131c7': {
+                        table: 'sys_ui_element'
+                        id: '7ea15918c333fa10458c153ed40131c7'
+                    }
+                    '7ea15918c333fa10458c153ed40131fa': {
+                        table: 'sys_ui_element'
+                        id: '7ea15918c333fa10458c153ed40131fa'
+                    }
+                    '7ea19918c333fa10458c153ed401310e': {
+                        table: 'sys_ui_element'
+                        id: '7ea19918c333fa10458c153ed401310e'
+                    }
+                    '83a19918c333fa10458c153ed4013147': {
+                        table: 'sys_ui_section'
+                        id: '83a19918c333fa10458c153ed4013147'
+                    }
+                    '83a19918c333fa10458c153ed401318b': {
+                        table: 'sys_ui_element'
+                        id: '83a19918c333fa10458c153ed401318b'
+                    }
+                    '87a19918c333fa10458c153ed4013133': {
+                        table: 'sys_ui_element'
+                        id: '87a19918c333fa10458c153ed4013133'
+                    }
+                    '87a19918c333fa10458c153ed401313f': {
+                        table: 'sys_ui_element'
+                        id: '87a19918c333fa10458c153ed401313f'
+                    }
+                    '87a19918c333fa10458c153ed4013165': {
+                        table: 'sys_ui_element'
+                        id: '87a19918c333fa10458c153ed4013165'
+                    }
+                    '87a19918c333fa10458c153ed401316a': {
+                        table: 'sys_ui_form_section'
+                        id: '87a19918c333fa10458c153ed401316a'
+                    }
+                    '87a19918c333fa10458c153ed4013188': {
+                        table: 'sys_ui_element'
+                        id: '87a19918c333fa10458c153ed4013188'
+                    }
+                    '87a19918c333fa10458c153ed40131a0': {
+                        table: 'sys_ui_element'
+                        id: '87a19918c333fa10458c153ed40131a0'
+                    }
+                    '8ba19918c333fa10458c153ed4013130': {
+                        table: 'sys_ui_element'
+                        id: '8ba19918c333fa10458c153ed4013130'
+                    }
+                    '8ba19918c333fa10458c153ed401313c': {
+                        table: 'sys_ui_element'
+                        id: '8ba19918c333fa10458c153ed401313c'
+                    }
+                    '8ba19918c333fa10458c153ed4013162': {
+                        table: 'sys_ui_element'
+                        id: '8ba19918c333fa10458c153ed4013162'
+                    }
+                    '8ba19918c333fa10458c153ed4013190': {
+                        table: 'sys_ui_element'
+                        id: '8ba19918c333fa10458c153ed4013190'
+                    }
+                    '8ba19918c333fa10458c153ed401319d': {
+                        table: 'sys_ui_element'
+                        id: '8ba19918c333fa10458c153ed401319d'
+                    }
+                    '8fa19918c333fa10458c153ed401318d': {
+                        table: 'sys_ui_element'
+                        id: '8fa19918c333fa10458c153ed401318d'
+                    }
+                    '8fa19918c333fa10458c153ed401319a': {
+                        table: 'sys_ui_element'
+                        id: '8fa19918c333fa10458c153ed401319a'
+                    }
+                    '8fa19918c333fa10458c153ed40131a5': {
+                        table: 'sys_ui_form_section'
+                        id: '8fa19918c333fa10458c153ed40131a5'
+                    }
+                    '93c3559cc333fa10458c153ed40131d0': {
+                        table: 'sys_script'
+                        id: '93c3559cc333fa10458c153ed40131d0'
+                    }
+                    a2a11918c333fa10458c153ed40131b4: {
+                        table: 'sys_ui_element'
+                        id: 'a2a11918c333fa10458c153ed40131b4'
+                    }
+                    a2a11918c333fa10458c153ed40131f0: {
+                        table: 'sys_ui_element'
+                        id: 'a2a11918c333fa10458c153ed40131f0'
+                    }
+                    a2a15918c333fa10458c153ed401313d: {
+                        table: 'sys_ui_element'
+                        id: 'a2a15918c333fa10458c153ed401313d'
+                    }
+                    a6a11918c333fa10458c153ed40131b1: {
+                        table: 'sys_ui_element'
+                        id: 'a6a11918c333fa10458c153ed40131b1'
+                    }
+                    a6a11918c333fa10458c153ed40131e2: {
+                        table: 'sys_ui_element'
+                        id: 'a6a11918c333fa10458c153ed40131e2'
+                    }
+                    a6a15918c333fa10458c153ed4013105: {
+                        table: 'sys_ui_form_section'
+                        id: 'a6a15918c333fa10458c153ed4013105'
+                    }
+                    a6a15918c333fa10458c153ed401310d: {
+                        table: 'sys_ui_element'
+                        id: 'a6a15918c333fa10458c153ed401310d'
+                    }
+                    a6a15918c333fa10458c153ed4013119: {
+                        table: 'sys_ui_element'
+                        id: 'a6a15918c333fa10458c153ed4013119'
+                    }
+                    a6a15918c333fa10458c153ed4013125: {
+                        table: 'sys_ui_form'
+                        id: 'a6a15918c333fa10458c153ed4013125'
+                    }
+                    a6a15918c333fa10458c153ed401313a: {
+                        table: 'sys_ui_element'
+                        id: 'a6a15918c333fa10458c153ed401313a'
+                    }
+                    aaa11918c333fa10458c153ed40131ae: {
+                        table: 'sys_ui_element'
+                        id: 'aaa11918c333fa10458c153ed40131ae'
+                    }
+                    aaa11918c333fa10458c153ed40131df: {
+                        table: 'sys_ui_element'
+                        id: 'aaa11918c333fa10458c153ed40131df'
+                    }
+                    aaa15918c333fa10458c153ed401310a: {
+                        table: 'sys_ui_element'
+                        id: 'aaa15918c333fa10458c153ed401310a'
+                    }
+                    aaa15918c333fa10458c153ed4013116: {
+                        table: 'sys_ui_element'
+                        id: 'aaa15918c333fa10458c153ed4013116'
+                    }
+                    aaa15918c333fa10458c153ed4013157: {
+                        table: 'sys_ui_element'
+                        id: 'aaa15918c333fa10458c153ed4013157'
+                    }
+                    aea11918c333fa10458c153ed4013196: {
+                        table: 'sys_ui_element'
+                        id: 'aea11918c333fa10458c153ed4013196'
+                    }
+                    aea11918c333fa10458c153ed401319e: {
+                        table: 'sys_ui_section'
+                        id: 'aea11918c333fa10458c153ed401319e'
+                    }
+                    aea11918c333fa10458c153ed40131b6: {
+                        table: 'sys_ui_element'
+                        id: 'aea11918c333fa10458c153ed40131b6'
+                    }
+                    aea11918c333fa10458c153ed40131f2: {
+                        table: 'sys_ui_element'
+                        id: 'aea11918c333fa10458c153ed40131f2'
+                    }
+                    aea15918c333fa10458c153ed4013107: {
+                        table: 'sys_ui_element'
+                        id: 'aea15918c333fa10458c153ed4013107'
+                    }
+                    aea15918c333fa10458c153ed4013150: {
+                        table: 'sys_ui_section'
+                        id: 'aea15918c333fa10458c153ed4013150'
+                    }
+                    aea15918c333fa10458c153ed4013154: {
+                        table: 'sys_ui_element'
+                        id: 'aea15918c333fa10458c153ed4013154'
+                    }
                     AppRoleBuilder: {
                         table: 'sys_script_include'
                         id: '56d85ee102b34c4baefdd52ce1ec70eb'
                         deleted: true
+                    }
+                    b2a15918c333fa10458c153ed4013168: {
+                        table: 'sys_ui_section'
+                        id: 'b2a15918c333fa10458c153ed4013168'
+                    }
+                    b2a15918c333fa10458c153ed401316c: {
+                        table: 'sys_ui_element'
+                        id: 'b2a15918c333fa10458c153ed401316c'
+                    }
+                    b2a15918c333fa10458c153ed4013174: {
+                        table: 'sys_ui_form_section'
+                        id: 'b2a15918c333fa10458c153ed4013174'
+                    }
+                    b2a15918c333fa10458c153ed4013192: {
+                        table: 'sys_ui_element'
+                        id: 'b2a15918c333fa10458c153ed4013192'
+                    }
+                    b2a15918c333fa10458c153ed40131a6: {
+                        table: 'sys_ui_element'
+                        id: 'b2a15918c333fa10458c153ed40131a6'
+                    }
+                    b2a15918c333fa10458c153ed40131c7: {
+                        table: 'sys_ui_element'
+                        id: 'b2a15918c333fa10458c153ed40131c7'
+                    }
+                    b2a15918c333fa10458c153ed40131d5: {
+                        table: 'sys_ui_element'
+                        id: 'b2a15918c333fa10458c153ed40131d5'
+                    }
+                    b2a15918c333fa10458c153ed40131fa: {
+                        table: 'sys_ui_element'
+                        id: 'b2a15918c333fa10458c153ed40131fa'
+                    }
+                    b2a19918c333fa10458c153ed401310e: {
+                        table: 'sys_ui_element'
+                        id: 'b2a19918c333fa10458c153ed401310e'
+                    }
+                    b6a15918c333fa10458c153ed401318f: {
+                        table: 'sys_ui_element'
+                        id: 'b6a15918c333fa10458c153ed401318f'
+                    }
+                    b6a15918c333fa10458c153ed40131ae: {
+                        table: 'sys_ui_element'
+                        id: 'b6a15918c333fa10458c153ed40131ae'
+                    }
+                    b6a15918c333fa10458c153ed40131c4: {
+                        table: 'sys_ui_element'
+                        id: 'b6a15918c333fa10458c153ed40131c4'
+                    }
+                    b6a15918c333fa10458c153ed40131d2: {
+                        table: 'sys_ui_element'
+                        id: 'b6a15918c333fa10458c153ed40131d2'
+                    }
+                    b6a15918c333fa10458c153ed40131f7: {
+                        table: 'sys_ui_element'
+                        id: 'b6a15918c333fa10458c153ed40131f7'
+                    }
+                    b6a19918c333fa10458c153ed401310b: {
+                        table: 'sys_ui_element'
+                        id: 'b6a19918c333fa10458c153ed401310b'
+                    }
+                    baa15918c333fa10458c153ed4013160: {
+                        table: 'sys_ui_element'
+                        id: 'baa15918c333fa10458c153ed4013160'
+                    }
+                    baa15918c333fa10458c153ed4013197: {
+                        table: 'sys_ui_element'
+                        id: 'baa15918c333fa10458c153ed4013197'
+                    }
+                    baa15918c333fa10458c153ed40131ab: {
+                        table: 'sys_ui_element'
+                        id: 'baa15918c333fa10458c153ed40131ab'
+                    }
+                    baa15918c333fa10458c153ed40131cd: {
+                        table: 'sys_ui_section'
+                        id: 'baa15918c333fa10458c153ed40131cd'
+                    }
+                    baa15918c333fa10458c153ed40131cf: {
+                        table: 'sys_ui_element'
+                        id: 'baa15918c333fa10458c153ed40131cf'
+                    }
+                    baa15918c333fa10458c153ed40131ed: {
+                        table: 'sys_ui_element'
+                        id: 'baa15918c333fa10458c153ed40131ed'
+                    }
+                    bea15918c333fa10458c153ed401315c: {
+                        table: 'sys_ui_form_section'
+                        id: 'bea15918c333fa10458c153ed401315c'
+                    }
+                    bea15918c333fa10458c153ed401316e: {
+                        table: 'sys_ui_element'
+                        id: 'bea15918c333fa10458c153ed401316e'
+                    }
+                    bea15918c333fa10458c153ed4013194: {
+                        table: 'sys_ui_element'
+                        id: 'bea15918c333fa10458c153ed4013194'
+                    }
+                    bea15918c333fa10458c153ed40131a8: {
+                        table: 'sys_ui_element'
+                        id: 'bea15918c333fa10458c153ed40131a8'
+                    }
+                    bea15918c333fa10458c153ed40131ea: {
+                        table: 'sys_ui_element'
+                        id: 'bea15918c333fa10458c153ed40131ea'
+                    }
+                    bea15918c333fa10458c153ed40131fc: {
+                        table: 'sys_ui_element'
+                        id: 'bea15918c333fa10458c153ed40131fc'
+                    }
+                    bea19918c333fa10458c153ed4013110: {
+                        table: 'sys_ui_element'
+                        id: 'bea19918c333fa10458c153ed4013110'
+                    }
+                    bea19918c333fa10458c153ed4013117: {
+                        table: 'sys_ui_form_section'
+                        id: 'bea19918c333fa10458c153ed4013117'
                     }
                     bom_json: {
                         table: 'sys_module'
@@ -22,9 +806,261 @@ declare global {
                         table: 'sys_script'
                         id: '8ce9d7666626448bbc3490e57ad87573'
                     }
+                    c3a19918c333fa10458c153ed401318d: {
+                        table: 'sys_ui_element'
+                        id: 'c3a19918c333fa10458c153ed401318d'
+                    }
+                    c3a19918c333fa10458c153ed401319a: {
+                        table: 'sys_ui_element'
+                        id: 'c3a19918c333fa10458c153ed401319a'
+                    }
+                    c7a19918c333fa10458c153ed4013141: {
+                        table: 'sys_ui_element'
+                        id: 'c7a19918c333fa10458c153ed4013141'
+                    }
+                    c7a19918c333fa10458c153ed401318a: {
+                        table: 'sys_ui_element'
+                        id: 'c7a19918c333fa10458c153ed401318a'
+                    }
+                    cba19918c333fa10458c153ed4013132: {
+                        table: 'sys_ui_element'
+                        id: 'cba19918c333fa10458c153ed4013132'
+                    }
+                    cba19918c333fa10458c153ed401313a: {
+                        table: 'sys_ui_section'
+                        id: 'cba19918c333fa10458c153ed401313a'
+                    }
+                    cba19918c333fa10458c153ed401313e: {
+                        table: 'sys_ui_element'
+                        id: 'cba19918c333fa10458c153ed401313e'
+                    }
+                    cba19918c333fa10458c153ed4013146: {
+                        table: 'sys_ui_form_section'
+                        id: 'cba19918c333fa10458c153ed4013146'
+                    }
+                    cba19918c333fa10458c153ed4013164: {
+                        table: 'sys_ui_element'
+                        id: 'cba19918c333fa10458c153ed4013164'
+                    }
+                    cba19918c333fa10458c153ed4013187: {
+                        table: 'sys_ui_element'
+                        id: 'cba19918c333fa10458c153ed4013187'
+                    }
+                    cba19918c333fa10458c153ed401319f: {
+                        table: 'sys_ui_element'
+                        id: 'cba19918c333fa10458c153ed401319f'
+                    }
+                    cfa19918c333fa10458c153ed401312f: {
+                        table: 'sys_ui_element'
+                        id: 'cfa19918c333fa10458c153ed401312f'
+                    }
+                    cfa19918c333fa10458c153ed4013161: {
+                        table: 'sys_ui_element'
+                        id: 'cfa19918c333fa10458c153ed4013161'
+                    }
+                    cfa19918c333fa10458c153ed401318f: {
+                        table: 'sys_ui_element'
+                        id: 'cfa19918c333fa10458c153ed401318f'
+                    }
+                    cfa19918c333fa10458c153ed401319c: {
+                        table: 'sys_ui_element'
+                        id: 'cfa19918c333fa10458c153ed401319c'
+                    }
                     cs0: {
                         table: 'sys_script_client'
                         id: '69f29811e71544c68e7638105f79df35'
+                    }
+                    e2a11918c333fa10458c153ed4013196: {
+                        table: 'sys_ui_element'
+                        id: 'e2a11918c333fa10458c153ed4013196'
+                    }
+                    e2a11918c333fa10458c153ed40131b6: {
+                        table: 'sys_ui_element'
+                        id: 'e2a11918c333fa10458c153ed40131b6'
+                    }
+                    e2a11918c333fa10458c153ed40131f2: {
+                        table: 'sys_ui_element'
+                        id: 'e2a11918c333fa10458c153ed40131f2'
+                    }
+                    e2a15918c333fa10458c153ed4013113: {
+                        table: 'sys_ui_section'
+                        id: 'e2a15918c333fa10458c153ed4013113'
+                    }
+                    e2a15918c333fa10458c153ed4013154: {
+                        table: 'sys_ui_element'
+                        id: 'e2a15918c333fa10458c153ed4013154'
+                    }
+                    e6a11918c333fa10458c153ed40131b3: {
+                        table: 'sys_ui_element'
+                        id: 'e6a11918c333fa10458c153ed40131b3'
+                    }
+                    e6a11918c333fa10458c153ed40131ef: {
+                        table: 'sys_ui_element'
+                        id: 'e6a11918c333fa10458c153ed40131ef'
+                    }
+                    e6a15918c333fa10458c153ed401311f: {
+                        table: 'sys_ui_form_section'
+                        id: 'e6a15918c333fa10458c153ed401311f'
+                    }
+                    e6a15918c333fa10458c153ed401313c: {
+                        table: 'sys_ui_element'
+                        id: 'e6a15918c333fa10458c153ed401313c'
+                    }
+                    e6a15918c333fa10458c153ed4013150: {
+                        table: 'sys_ui_form_section'
+                        id: 'e6a15918c333fa10458c153ed4013150'
+                    }
+                    eaa11918c333fa10458c153ed40131b0: {
+                        table: 'sys_ui_element'
+                        id: 'eaa11918c333fa10458c153ed40131b0'
+                    }
+                    eaa11918c333fa10458c153ed40131e1: {
+                        table: 'sys_ui_element'
+                        id: 'eaa11918c333fa10458c153ed40131e1'
+                    }
+                    eaa15918c333fa10458c153ed401310c: {
+                        table: 'sys_ui_element'
+                        id: 'eaa15918c333fa10458c153ed401310c'
+                    }
+                    eaa15918c333fa10458c153ed4013118: {
+                        table: 'sys_ui_element'
+                        id: 'eaa15918c333fa10458c153ed4013118'
+                    }
+                    eaa15918c333fa10458c153ed4013139: {
+                        table: 'sys_ui_element'
+                        id: 'eaa15918c333fa10458c153ed4013139'
+                    }
+                    eea11918c333fa10458c153ed4013193: {
+                        table: 'sys_ui_element'
+                        id: 'eea11918c333fa10458c153ed4013193'
+                    }
+                    eea11918c333fa10458c153ed40131ad: {
+                        table: 'sys_ui_element'
+                        id: 'eea11918c333fa10458c153ed40131ad'
+                    }
+                    eea11918c333fa10458c153ed40131b8: {
+                        table: 'sys_ui_element'
+                        id: 'eea11918c333fa10458c153ed40131b8'
+                    }
+                    eea11918c333fa10458c153ed40131de: {
+                        table: 'sys_ui_element'
+                        id: 'eea11918c333fa10458c153ed40131de'
+                    }
+                    eea15918c333fa10458c153ed4013109: {
+                        table: 'sys_ui_element'
+                        id: 'eea15918c333fa10458c153ed4013109'
+                    }
+                    eea15918c333fa10458c153ed4013115: {
+                        table: 'sys_ui_element'
+                        id: 'eea15918c333fa10458c153ed4013115'
+                    }
+                    eea15918c333fa10458c153ed4013156: {
+                        table: 'sys_ui_element'
+                        id: 'eea15918c333fa10458c153ed4013156'
+                    }
+                    f2a15918c333fa10458c153ed401316e: {
+                        table: 'sys_ui_element'
+                        id: 'f2a15918c333fa10458c153ed401316e'
+                    }
+                    f2a15918c333fa10458c153ed4013194: {
+                        table: 'sys_ui_element'
+                        id: 'f2a15918c333fa10458c153ed4013194'
+                    }
+                    f2a15918c333fa10458c153ed40131a8: {
+                        table: 'sys_ui_element'
+                        id: 'f2a15918c333fa10458c153ed40131a8'
+                    }
+                    f2a15918c333fa10458c153ed40131b7: {
+                        table: 'sys_ui_form_section'
+                        id: 'f2a15918c333fa10458c153ed40131b7'
+                    }
+                    f2a15918c333fa10458c153ed40131cd: {
+                        table: 'sys_ui_form_section'
+                        id: 'f2a15918c333fa10458c153ed40131cd'
+                    }
+                    f2a15918c333fa10458c153ed40131ea: {
+                        table: 'sys_ui_element'
+                        id: 'f2a15918c333fa10458c153ed40131ea'
+                    }
+                    f2a15918c333fa10458c153ed40131fc: {
+                        table: 'sys_ui_element'
+                        id: 'f2a15918c333fa10458c153ed40131fc'
+                    }
+                    f2a19918c333fa10458c153ed4013110: {
+                        table: 'sys_ui_element'
+                        id: 'f2a19918c333fa10458c153ed4013110'
+                    }
+                    f6a15918c333fa10458c153ed401316b: {
+                        table: 'sys_ui_element'
+                        id: 'f6a15918c333fa10458c153ed401316b'
+                    }
+                    f6a15918c333fa10458c153ed401318d: {
+                        table: 'sys_ui_section'
+                        id: 'f6a15918c333fa10458c153ed401318d'
+                    }
+                    f6a15918c333fa10458c153ed4013191: {
+                        table: 'sys_ui_element'
+                        id: 'f6a15918c333fa10458c153ed4013191'
+                    }
+                    f6a15918c333fa10458c153ed40131c6: {
+                        table: 'sys_ui_element'
+                        id: 'f6a15918c333fa10458c153ed40131c6'
+                    }
+                    f6a15918c333fa10458c153ed40131d4: {
+                        table: 'sys_ui_element'
+                        id: 'f6a15918c333fa10458c153ed40131d4'
+                    }
+                    f6a15918c333fa10458c153ed40131f9: {
+                        table: 'sys_ui_element'
+                        id: 'f6a15918c333fa10458c153ed40131f9'
+                    }
+                    f6a19918c333fa10458c153ed401310d: {
+                        table: 'sys_ui_element'
+                        id: 'f6a19918c333fa10458c153ed401310d'
+                    }
+                    faa15918c333fa10458c153ed4013162: {
+                        table: 'sys_ui_element'
+                        id: 'faa15918c333fa10458c153ed4013162'
+                    }
+                    faa15918c333fa10458c153ed4013167: {
+                        table: 'sys_ui_form_section'
+                        id: 'faa15918c333fa10458c153ed4013167'
+                    }
+                    faa15918c333fa10458c153ed40131ad: {
+                        table: 'sys_ui_element'
+                        id: 'faa15918c333fa10458c153ed40131ad'
+                    }
+                    faa15918c333fa10458c153ed40131c3: {
+                        table: 'sys_ui_element'
+                        id: 'faa15918c333fa10458c153ed40131c3'
+                    }
+                    faa15918c333fa10458c153ed40131d1: {
+                        table: 'sys_ui_element'
+                        id: 'faa15918c333fa10458c153ed40131d1'
+                    }
+                    faa15918c333fa10458c153ed40131f6: {
+                        table: 'sys_ui_element'
+                        id: 'faa15918c333fa10458c153ed40131f6'
+                    }
+                    faa19918c333fa10458c153ed401310a: {
+                        table: 'sys_ui_element'
+                        id: 'faa19918c333fa10458c153ed401310a'
+                    }
+                    fea15918c333fa10458c153ed401315f: {
+                        table: 'sys_ui_element'
+                        id: 'fea15918c333fa10458c153ed401315f'
+                    }
+                    fea15918c333fa10458c153ed4013196: {
+                        table: 'sys_ui_element'
+                        id: 'fea15918c333fa10458c153ed4013196'
+                    }
+                    fea15918c333fa10458c153ed40131aa: {
+                        table: 'sys_ui_element'
+                        id: 'fea15918c333fa10458c153ed40131aa'
+                    }
+                    fea15918c333fa10458c153ed40131ec: {
+                        table: 'sys_ui_element'
+                        id: 'fea15918c333fa10458c153ed40131ec'
                     }
                     package_json: {
                         table: 'sys_module'
