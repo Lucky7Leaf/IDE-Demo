@@ -1,0 +1,10 @@
+{
+    "scope": "x_153639_demo_ide",
+    "scopeId": "a405441cc37f7a10458c153ed4013126",
+    "name": "Demo IDE",
+    "tsconfigPath": "./src/server/tsconfig.json",
+    "licensing": {
+        "enforceLicense": "none"
+    },
+    "description": "Demo application to play with IDE as part of Innovation week"
+}
