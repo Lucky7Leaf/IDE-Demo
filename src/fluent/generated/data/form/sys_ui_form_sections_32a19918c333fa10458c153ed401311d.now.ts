@@ -1,0 +1,12 @@
+import { Record } from '@servicenow/sdk/core'
+
+Record({
+    $id: Now.ID['32a19918c333fa10458c153ed401311d'],
+    table: 'sys_ui_form',
+    data: {
+        name: 'x_153639_demo_ide_leaf_table',
+        sys_domain: 'global',
+        sys_domain_path: '/',
+        view: '7eeeb0d4c33bba10458c153ed4013139',
+    },
+})
