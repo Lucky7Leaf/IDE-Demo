@@ -5,6 +5,10 @@ declare global {
         namespace Internal {
             interface Keys extends KeysRegistry {
                 explicit: {
+                    '0': {
+                        table: 'sys_script'
+                        id: 'a6c9f040be78428db1165361d403a513'
+                    }
                     AppRoleBuilder: {
                         table: 'sys_script_include'
                         id: '56d85ee102b34c4baefdd52ce1ec70eb'
